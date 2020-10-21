@@ -1,4 +1,4 @@
-# EjerciciosLenguajesInterfaz1
+// EjerciciosLenguajesInterfaz1
 /*
 INSTITUTO TECNOLOGICO DE TIJUANA
 OLIVER VILLALOBOS BECERRIL

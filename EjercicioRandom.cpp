@@ -8,7 +8,7 @@ NO.CONTROL: 18212282
 //Dado Juego
 //
 //  Un programa que te de numeros aleatorios del 1 al 6 como en un dado
-//
+//  1 es perdiste, 6 es ganaste, y lo que no sea ni 1 ni 6 no es nada
 #include <iostream>
 #include <string>
 #include <ctime>
@@ -28,7 +28,6 @@ int main(){
             cout << "GANASTE" <<endl;
             break;
         default:
-            cout << "???" <<endl;
             break;
     }
 
